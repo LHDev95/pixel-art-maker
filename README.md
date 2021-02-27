@@ -1,0 +1,2 @@
+# Pixel Art Maker
+This is a very simple pixel art maker created as a personal project to practice some JavaScript. As such, it is very barebones and is not intended as some fancy product to showcase, but rather an exhibit of Javascript knowledge. The functionality is rather simple: Just set grid width and height, then pick a color and start clickin'. 
